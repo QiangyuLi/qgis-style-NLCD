@@ -13,15 +13,30 @@
       </minMaxOrigin>
       <colorPalette>
         <!-- Urban -->
-        <paletteEntry value="1" color="#808080" label="Urban" alpha="255"/>
+        <paletteEntry value="21" color="#808080" label="Developed, Open Space" alpha="255"/>
+        <paletteEntry value="22" color="#808080" label="Developed, Low Intensity" alpha="255"/>
+        <paletteEntry value="23" color="#808080" label="Developed, Medium Intensity" alpha="255"/>
+        <paletteEntry value="24" color="#808080" label="Developed, High Intensity" alpha="255"/>
+
         <!-- Forest -->
-        <paletteEntry value="2" color="#228B22" label="Forest" alpha="255"/>
+        <paletteEntry value="41" color="#228B22" label="Deciduous Forest" alpha="255"/>
+        <paletteEntry value="42" color="#228B22" label="Evergreen Forest" alpha="255"/>
+        <paletteEntry value="43" color="#228B22" label="Mixed Forest" alpha="255"/>
+
         <!-- Grassland -->
-        <paletteEntry value="3" color="#90EE90" label="Grassland" alpha="255"/>
+        <paletteEntry value="71" color="#90EE90" label="Grassland/Herbaceous" alpha="255"/>
+        <paletteEntry value="81" color="#90EE90" label="Pasture/Hay" alpha="255"/>
+        <paletteEntry value="82" color="#90EE90" label="Cultivated Crops" alpha="255"/>
+
         <!-- Water -->
-        <paletteEntry value="4" color="#1E90FF" label="Water" alpha="255"/>
+        <paletteEntry value="11" color="#1E90FF" label="Open Water" alpha="255"/>
+        <paletteEntry value="12" color="#1E90FF" label="Perennial Ice/Snow" alpha="255"/>
+        <paletteEntry value="90" color="#1E90FF" label="Woody Wetlands" alpha="255"/>
+        <paletteEntry value="95" color="#1E90FF" label="Emergent Herbaceous Wetlands" alpha="255"/>
+
         <!-- Other -->
-        <paletteEntry value="5" color="#F5F5DC" label="Other" alpha="255"/>
+        <paletteEntry value="31" color="#F5F5DC" label="Barren Land" alpha="255"/>
+        <paletteEntry value="52" color="#F5F5DC" label="Shrub/Scrub" alpha="255"/>
       </colorPalette>
     </rasterrenderer>
     <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
