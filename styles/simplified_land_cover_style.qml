@@ -12,6 +12,9 @@
         <stdDevFactor>2</stdDevFactor>
       </minMaxOrigin>
       <colorPalette>
+        <!-- Cultivated Crops -->
+        <paletteEntry value="82" color="#FFFF00" label="Cultivated Crops" alpha="255"/>
+
         <!-- Urban -->
         <paletteEntry value="21" color="#808080" label="Developed, Open Space" alpha="255"/>
         <paletteEntry value="22" color="#808080" label="Developed, Low Intensity" alpha="255"/>
@@ -26,7 +29,6 @@
         <!-- Grassland -->
         <paletteEntry value="71" color="#90EE90" label="Grassland/Herbaceous" alpha="255"/>
         <paletteEntry value="81" color="#90EE90" label="Pasture/Hay" alpha="255"/>
-        <paletteEntry value="82" color="#90EE90" label="Cultivated Crops" alpha="255"/>
 
         <!-- Water -->
         <paletteEntry value="11" color="#1E90FF" label="Open Water" alpha="255"/>
