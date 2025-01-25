@@ -34,9 +34,9 @@
         <paletteEntry value="11" color="#1E90FF" label="Open Water" alpha="255"/>
         <paletteEntry value="12" color="#1E90FF" label="Perennial Ice/Snow" alpha="255"/>
 
-        <!-- Wetlands (Cyan) -->
-        <paletteEntry value="90" color="#00FFFF" label="Woody Wetlands" alpha="255"/>
-        <paletteEntry value="95" color="#00FFFF" label="Emergent Herbaceous Wetlands" alpha="255"/>
+        <!-- Wetlands (Darker Cyan) -->
+        <paletteEntry value="90" color="#008B8B" label="Woody Wetlands" alpha="255"/>
+        <paletteEntry value="95" color="#008B8B" label="Emergent Herbaceous Wetlands" alpha="255"/>
 
         <!-- Other -->
         <paletteEntry value="31" color="#F5F5DC" label="Barren Land" alpha="255"/>
