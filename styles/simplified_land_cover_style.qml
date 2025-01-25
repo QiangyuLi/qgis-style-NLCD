@@ -15,11 +15,11 @@
         <!-- Cultivated Crops -->
         <paletteEntry value="82" color="#FFFF00" label="Cultivated Crops" alpha="255"/>
 
-        <!-- Urban (Light Red to Medium Red) -->
-        <paletteEntry value="21" color="#FF7F7F" label="Developed, Open Space" alpha="255"/>
-        <paletteEntry value="22" color="#FF6A6A" label="Developed, Low Intensity" alpha="255"/>
-        <paletteEntry value="23" color="#FF4500" label="Developed, Medium Intensity" alpha="255"/>
-        <paletteEntry value="24" color="#FF0000" label="Developed, High Intensity" alpha="255"/>
+        <!-- Urban (Less Red) -->
+        <paletteEntry value="21" color="#FFC0CB" label="Developed, Open Space" alpha="255"/>
+        <paletteEntry value="22" color="#FF6F61" label="Developed, Low Intensity" alpha="255"/>
+        <paletteEntry value="23" color="#CD5C5C" label="Developed, Medium Intensity" alpha="255"/>
+        <paletteEntry value="24" color="#8B0000" label="Developed, High Intensity" alpha="255"/>
 
         <!-- Forest -->
         <paletteEntry value="41" color="#228B22" label="Deciduous Forest" alpha="255"/>
